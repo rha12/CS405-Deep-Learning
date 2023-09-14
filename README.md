@@ -1,6 +1,6 @@
 # CS405 Deep Learning Course Labs
 
-Welcome to the CS405 Deep Learning course labs repository! This repository contains the lab assignments completed during the CS405 Deep Learning course at [National University of Sciences & Technology (NUST), Pakistan]. Each lab focuses on various aspects of deep learning and neural networks.
+Welcome to the CS405 Deep Learning course labs repository! This repository contains the lab assignments completed during the CS405 Deep Learning course at **National University of Sciences & Technology (NUST), Pakistan**. Each lab focuses on various aspects of deep learning and neural networks.
 
 ## Lab Experiments
 
@@ -30,7 +30,7 @@ Welcome to the CS405 Deep Learning course labs repository! This repository conta
 
 ## Getting Started
 
-Each lab is contained within its respective directory and includes instructions and code related to the specific experiment. To get started with a lab, navigate to its directory and open the lab files. Each lab is self- explanatory.
+Each lab is contained within its respective directory and includes instructions and code related to the specific experiment. To get started with a lab, navigate to its directory and open the lab files. Each lab is self-explanatory.
 
 ## Prerequisites
 
@@ -38,6 +38,6 @@ Before attempting the labs, ensure you have a basic understanding of deep learni
 
 ## Acknowledgments
 
-I would like to express my gratitude to the faculty and instructors at [National University of Sciences & Technology (NUST)] for their guidance and support throughout the CS405 Deep Learning course.
+I would like to express my gratitude to the faculty and instructors at **NUST** for their guidance and support throughout the CS405 Deep Learning course.
 
 Happy learning and exploring the world of deep learning!
